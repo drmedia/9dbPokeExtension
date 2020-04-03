@@ -1,0 +1,24 @@
+{
+    "name": "9dbpokemongo extension",
+    "description" : "9dbpokemongo pvp용 한글 지원",
+    "version": "0.1",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "main.html",
+      "default_title": "9dbpokemongo extension"
+    },
+    "icons": {
+        "128": "pokemon9db.png"
+        }, 
+    "permissions":["activeTab", "storage", "https://*.9db.jp/pokemongo/data/*"],
+      "content_scripts": [
+        {
+          "matches": ["https://*.9db.jp/pokemongo/data/*"],
+          "js": ["inject.js"],
+          "run_at": "document_end"
+        }
+      ],
+      "web_accessible_resources": [
+        "content.js"
+      ] 
+  }
