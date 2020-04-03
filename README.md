@@ -3,17 +3,17 @@
 https://9db.jp/pokemongo/data/8985 사이트에서 pvp 데미지표를 많이 활용하는데
 포켓몬과 기술을 검색시 일본어로 입력해야 하는 불편 사항이 있습니다.
 그래서 한글을 입력할 수 있도록 구글 확장 프로그램을 만들게 되었습니다.
-<br/>
+ 
 # 크롬 확장 프로그램 다운받기
 ![image](https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
 
-<br/>
+ 
 # 크롬 Extension 설치
 ![image](https://user-images.githubusercontent.com/3176173/78344688-b0a14980-75d7-11ea-97b6-c08ab7083485.png)
 
 크롬에서 주소창에 chrome://extentsions 를 입력합니다.
 
-<br/>
+ 
 ![image](https://user-images.githubusercontent.com/3176173/78344845-ee05d700-75d7-11ea-8c49-bce536097079.png)
 
 1. 확장 프로그램 페이지에서 [개발자 모드]를 On으로 변경합니다.
