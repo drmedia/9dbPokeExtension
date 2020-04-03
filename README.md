@@ -72,4 +72,5 @@ https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
 # 개발자 모드 OFF
 ![image](https://user-images.githubusercontent.com/3176173/78348369-e137b200-75dc-11ea-9f7a-15b65a232bca.png)
 크롬에서 주소창에 chrome://extentsions 를 입력합니다.
+
 확장 프로그램 페이지에서 [개발자 모드]를 Off 로 변경합니다.
