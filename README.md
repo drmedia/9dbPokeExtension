@@ -8,7 +8,7 @@ https://9db.jp/pokemongo/data/8985 사이트에서 pvp 데미지표를 많이 �
 ![image](https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
 
  
-# 크롬 Extension 설치
+# 크롬 확장 프로그램 설치
 ![image](https://user-images.githubusercontent.com/3176173/78344688-b0a14980-75d7-11ea-97b6-c08ab7083485.png)
 
 크롬에서 주소창에 chrome://extentsions 를 입력합니다.
