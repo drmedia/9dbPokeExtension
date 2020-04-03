@@ -7,18 +7,19 @@ https://9db.jp/pokemongo/data/8985 사이트에서 pvp 데미지표를 많이 �
 # 크롬 확장 프로그램 다운받기
 ![image](https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
 
-# 크롬 Extension 페이지 이동
+# 크롬 Extension 설치
 크롬에서 주소창에 chrome://extentsions 를 입력합니다.
-확장 프로그램 페이지에서 [개발자 모드]를 On으로 변경합니다.
+![image](https://user-images.githubusercontent.com/3176173/78344688-b0a14980-75d7-11ea-97b6-c08ab7083485.png)
+1. 확장 프로그램 페이지에서 [개발자 모드]를 On으로 변경합니다.
+2. [압축해제된 확장 프로그램을 로드합니다]버튼을 클릭하여 조금전 다운 받은 폴더를 선택합니다.
+![image](https://user-images.githubusercontent.com/3176173/78344845-ee05d700-75d7-11ea-8c49-bce536097079.png)
 
-# 확장 프로그램 폴더 선택
-[압축해제된 확장 프로그램을 로드합니다]버튼을 클릭하여 조금전 다운 받은 폴더를 선택합니다.
 
-# 확장 프로그램 추가
-아래와 같이 화면에서 [확장 프로그램 추가]버튼을 클릭합니다.
+# 확장 프로그램 설치 확인
+1. 확장 프로그램 설치 확인 합니다.
+2. 크롭 브라우저의 우측 상단에 해당 플러그인이 표시되면 설치가 완료 되었습니다.
+![image](https://user-images.githubusercontent.com/3176173/78345537-b4819b80-75d8-11ea-8281-07e76cd7a0a0.png)
 
-# 설치 확인
-크롭 브라우저의 우측 상단에 해당 플러그인이 표시되면 설치가 완료 되었습니다.
 
 # 사이트 접속
 https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
