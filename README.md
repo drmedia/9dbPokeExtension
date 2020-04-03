@@ -37,20 +37,20 @@ https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
 # 리그와 옵션 지정
 ![image](https://user-images.githubusercontent.com/3176173/78346514-142c7680-75da-11ea-916c-7ca49e8faeab.png)
 
-1.리그를 선택합니다.
-2.방패 사용 옵션을 선택합니다.
-3.기술 보기를 선택합니다.
-4.CT 턴 보기를 선택합니다. 
-5.공격, 방어에 모두 보기를 선택합니다.
+1.리그를 선택합니다.<br/>
+2.방패 사용 옵션을 선택합니다.<br/>
+3.기술 보기를 선택합니다.<br/>
+4.CT 턴 보기를 선택합니다. <br/>
+5.공격, 방어에 모두 보기를 선택합니다.<br/>
 
 
 # 데미지표 화면
 ![image](https://user-images.githubusercontent.com/3176173/78347477-86ea2180-75db-11ea-9368-93f9165dac9d.png)
 
-1.추가 버튼을 클릭합니다.
-2.한글로 포켓몬을 검색하고 선택합니다.
-3.기술를 선택합니다.
-4.확인 버튼을 클릭합니다.
+1.추가 버튼을 클릭합니다.<br/>
+2.한글로 포켓몬을 검색하고 선택합니다.<br/>
+3.기술를 선택합니다.<br/>
+4.확인 버튼을 클릭합니다.<br/>
 
 ![image](https://user-images.githubusercontent.com/3176173/78347838-04ae2d00-75dc-11ea-87ac-839c00ed8dcd.png)
 
@@ -63,6 +63,5 @@ https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
 
 # 개발자 모드 OFF
 ![image](https://user-images.githubusercontent.com/3176173/78348369-e137b200-75dc-11ea-9f7a-15b65a232bca.png)
-크롬에서 주소창에 chrome://extentsions 를 입력합니다.
-
+크롬에서 주소창에 chrome://extentsions 를 입력합니다.<br/>
 확장 프로그램 페이지에서 [개발자 모드]를 Off 로 변경합니다.
