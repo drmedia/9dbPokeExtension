@@ -5,7 +5,7 @@ https://9db.jp/pokemongo/data/8985 사이트에서 pvp 데미지표를 많이 �
 그래서 한글을 입력할 수 있도록 구글 확장 프로그램을 만들게 되었습니다.
 
 # 크롬 확장 프로그램 다운받기
-(https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
+![image](https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
 
 # 크롬 Extension 페이지 이동
 크롬에서 주소창에 chrome://extentsions 를 입력합니다.
