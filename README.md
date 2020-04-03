@@ -6,7 +6,7 @@ https://9db.jp/pokemongo/data/8985 사이트에서 pvp 데미지표를 많이 �
  
 # 크롬 확장 프로그램 다운받기
 ![image](https://user-images.githubusercontent.com/3176173/78344276-1f31d780-75d7-11ea-9a4a-858635869b03.png)
-파일로 다운받아 적당한 위치에 압축을 풀으세요.
+파일을 다운받아 적당한 위치에 압축 해제 합니다.
 
  
 # 크롬 확장 프로그램 설치
