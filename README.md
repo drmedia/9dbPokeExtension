@@ -38,9 +38,13 @@ https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
 ![image](https://user-images.githubusercontent.com/3176173/78346514-142c7680-75da-11ea-916c-7ca49e8faeab.png)
 
 1.리그를 선택합니다.
+
 2.방패 사용 옵션을 선택합니다.
+
 3.기술 보기를 선택합니다.
+
 4.CT 턴 보기를 선택합니다. 
+
 5.공격, 방어에 모두 보기를 선택합니다.
 
 
@@ -49,8 +53,11 @@ https://9db.jp/pokemongo/data/8985 사이트에 접속합니다.
 ![image](https://user-images.githubusercontent.com/3176173/78347477-86ea2180-75db-11ea-9368-93f9165dac9d.png)
 
 1.추가 버튼을 클릭합니다.
+
 2.한글로 포켓몬을 검색하고 선태합니다.
+
 3.기술를 선택합니다.
+
 4.확인 버튼을 클릭합니다.
 
 ![image](https://user-images.githubusercontent.com/3176173/78347838-04ae2d00-75dc-11ea-87ac-839c00ed8dcd.png)
