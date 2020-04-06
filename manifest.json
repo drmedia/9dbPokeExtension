@@ -1,6 +1,6 @@
 {
     "name": "9dbpokemongo extension",
-    "description" : "9dbpokemongo pvp용 한글 지원",
+    "description" : "9dbpokemongo pvp 팀 구성 한글 지원용 크롬 확장 프로그램",
     "version": "0.1",
     "manifest_version": 2,
     "browser_action": {
